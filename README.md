@@ -1,4 +1,4 @@
-# muproject
+# myproject
 
 A new Flutter project.
 
